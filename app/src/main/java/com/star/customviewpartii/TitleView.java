@@ -41,4 +41,5 @@ public class TitleView extends FrameLayout {
     public void setLeftButtonListener(OnClickListener onClickListener) {
         mLeftButton.setOnClickListener(onClickListener);
     }
+
 }
